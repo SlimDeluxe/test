@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/SlimDeluxe/test/compare/v1.0.0...v1.1.0) (2022-12-17)
+
+
+### Features
+
+* add some latin ([ccb98ca](https://github.com/SlimDeluxe/test/commit/ccb98ca5197e1b991683511d5b2db20be1877c83))
+
 ## 1.0.0 (2022-12-17)
 
 
