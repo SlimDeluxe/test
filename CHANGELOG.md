@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/SlimDeluxe/test/compare/v1.1.0...v1.2.0) (2022-12-17)
+
+
+### Features
+
+* add culinary inspiration ([#4](https://github.com/SlimDeluxe/test/issues/4)) ([776e3d1](https://github.com/SlimDeluxe/test/commit/776e3d176175b3d78cff1020427236d3fe6949aa))
+
 ## [1.1.0](https://github.com/SlimDeluxe/test/compare/v1.0.0...v1.1.0) (2022-12-17)
 
 
